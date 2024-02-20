@@ -25,3 +25,10 @@
 
 **Template Design Pattern**
 - When you want all classes to follow the specific steps to process the task but also need to provide the flexibility that each class can have their own logic in that specific steps.
+
+**Command Design Pattern**
+- Let's take the use-case of Remote control which can control various home appliances and with that lets understand the problem, then we will go with this pattern.
+- It separates the logic of:
+  - Receiver
+  - Invoker
+  - Command
