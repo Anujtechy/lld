@@ -5,54 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b62d75-60b7-4c2a-b9e0-2a47ed1e063b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/NullVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/VehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/NullObjectDesignPattern/VehicleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/ItemShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingStates/Impl/DispenseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingStates/Impl/HasMoneyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingStates/Impl/IdleState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingStates/Impl/SelectionState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/VendingStates/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/enums/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/enums/ItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/exceptions/ItemAlreadyPresentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/exceptions/ItemNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/DesignVendingMachine/exceptions/ItemSoldOutException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/OnlineAuctionSystem/Auction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/OnlineAuctionSystem/AuctionMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/OnlineAuctionSystem/Bidder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/OnlineAuctionSystem/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/OnlineAuctionSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/DefaultPricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/DriverMatchingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/LeastTimeBasedMatchingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/PricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/RatingBasedPricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Rider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/RiderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/StrategyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Trip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/TripManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/TripMetaData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/TripStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Uber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LowLevelDesigns/UberSystemDesign/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Aggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/BookIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -90,14 +49,27 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern" />
       <recent name="LowLevelDesigns.UberSystemDesign" />
       <recent name="OnlineAuctionSystem" />
       <recent name="DesignVendingMachine.exceptions" />
       <recent name="DesignVendingMachine.VendingStates.Impl" />
-      <recent name="DesignVendingMachine" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Uber">
+  <component name="RunManager" selected="Application.DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main">
+    <configuration name="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" />
       <module name="lld" />
@@ -117,19 +89,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LowLevelDesigns.DesignVendingMachine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignVendingMachine.Main" />
-      <module name="lld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignVendingMachine.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" />
         <item itemvalue="Application.Uber" />
         <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" />
         <item itemvalue="Application.LowLevelDesigns.DesignVendingMachine.Main" />
         <item itemvalue="Application.OnlineAuctionSystem.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
