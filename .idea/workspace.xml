@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b62d75-60b7-4c2a-b9e0-2a47ed1e063b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Aggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/BookIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/IteratorDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/InterpreterPattern/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/InterpreterPattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/InterpreterPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/InterpreterPattern/MultiplyNonTerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/InterpreterPattern/NumberTerminalExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" afterDir="false" />
     </list>
@@ -22,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,14 +49,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DesignPatterns.BehaviouralDesignPatterns.InterpreterPattern" />
       <recent name="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern" />
       <recent name="LowLevelDesigns.UberSystemDesign" />
       <recent name="OnlineAuctionSystem" />
       <recent name="DesignVendingMachine.exceptions" />
-      <recent name="DesignVendingMachine.VendingStates.Impl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" />
       <module name="lld" />
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlineAuctionSystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnlineAuctionSystem.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.InterpreterPattern.Main" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OnlineAuctionSystem.*" />
+          <option name="PATTERN" value="DesignPatterns.BehaviouralDesignPatterns.InterpreterPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" />
         <item itemvalue="Application.Uber" />
         <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" />
         <item itemvalue="Application.LowLevelDesigns.DesignVendingMachine.Main" />
-        <item itemvalue="Application.OnlineAuctionSystem.Main" />
       </list>
     </recent_temporary>
   </component>
