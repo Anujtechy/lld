@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b62d75-60b7-4c2a-b9e0-2a47ed1e063b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/MementoPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/MementoPattern/ConfigurationCareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/MementoPattern/ConfigurationMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/MementoPattern/ConfigurationOriginator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/TemplatePattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/TemplatePattern/PayToFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/TemplatePattern/PayToMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/BehaviouralDesignPatterns/TemplatePattern/PaymentFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/README.md" afterDir="false" />
     </list>
@@ -55,7 +55,7 @@
       <recent name="OnlineAuctionSystem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.DesignPatterns.BehaviouralDesignPatterns.TemplatePattern.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.MementoPattern.Client" />
       <module name="lld" />
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" />
+    <configuration name="DesignPatterns.BehaviouralDesignPatterns.TemplatePattern.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.BehaviouralDesignPatterns.TemplatePattern.Client" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.*" />
+          <option name="PATTERN" value="DesignPatterns.BehaviouralDesignPatterns.TemplatePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.TemplatePattern.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.IteratorDesignPattern.Main" />
         <item itemvalue="Application.Uber" />
-        <item itemvalue="Application.DesignPatterns.BehaviouralDesignPatterns.NullObjectDesignPattern.Main" />
       </list>
     </recent_temporary>
   </component>

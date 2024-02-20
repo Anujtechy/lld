@@ -22,3 +22,6 @@
     - It represents an Object which holds the state of the Originator.
   - Caretaker
     - Manages the list of states i.e. list of Memento
+
+**Template Design Pattern**
+- When you want all classes to follow the specific steps to process the task but also need to provide the flexibility that each class can have their own logic in that specific steps.
